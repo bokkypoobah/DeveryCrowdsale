@@ -14,8 +14,11 @@
 
 ## Crowdsale Statistics
 
-The crowdsale sold out 17 minutes after the initial 12 hour period when then was a contribution cap of 3 ETH. Following are the statistics after
-the crowdsale sold out, and before the team and reserve tokens have been allocated:
+The crowdsale sold out 17 seconds after the initial 12 hour period when then was a contribution cap of 3 ETH. The last valid contribution was
+[0x4559746c](https://etherscan.io/tx/0x4559746cfda34c1cf06327c0376b49ae8ccfacc9f62be4217734c04a16b09a01) for 41.863162511 ETH but 25.751796138658412009 ETH
+was refunded as the cap was reached.
+
+Following are the statistics after the crowdsale sold out, and before the team and reserve tokens have been allocated:
 
 Individual contribution statistics can be found at [scripts/DeveryCrowdsaleSummary.json](scripts/DeveryCrowdsaleSummary.json).
 
